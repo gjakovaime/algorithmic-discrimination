@@ -1,0 +1,39 @@
+Books
+Weapons of Math Destruction - Cathy O'Neil
+Automating Inequality: How high-tech toools profile, police and punish the poor - Virginia Eubanks
+Algorithms of Oppression: How Search ENgines Reinforce Racism - Safiya Umoja Noble
+
+Papers & Articles
+Privacy, Poverty, and Big Datap: A MATRIX
+OF VULNERABILITIES FOR POOR AMERICANS
+MARY MADDEN*
+MICHELE GILMAN**
+KAREN LEVY ***
+ALICE MARWICK
+https://poseidon01.ssrn.com/delivery.php?ID=655065026069101001002065122009104074103013032009049037108065083108066110024098072076020005033013022048034024090017117015074123047041028055048113085103090097127030086058084016097086117012028075029091000029119071018126114007118007025068074076089098003&EXT=pdf
+
+Ohio Has the Highest Payday Loan Prices in the Nation
+https://www.pewtrusts.org/en/research-and-analysis/fact-sheets/2016/12/ohio-has-the-highest-payday-loan-prices-in-the-nation
+
+Helen Stokes v. RealPage Inc
+https://www.leagle.com/decision/infdco20161020g14
+
+How Algorithms Can Bring Down Minorities' Credit Scores
+https://www.theatlantic.com/technology/archive/2016/12/how-algorithms-can-bring-down-minorities-credit-scores/509333/
+
+ProPublic Reporting on Machine Bias:
+https://www.propublica.org/series/machine-bias
+Recidivism example used in presentation:
+https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+
+More on Recidivism:
+Risk, Race, & Recidivism: Predictive Bias and Disparate Impact
+Jennifer Skeem and Christopher T. Lowenkamp
+https://poseidon01.ssrn.com/delivery.php?ID=802090099084098028098127097000078077034006049004090060007080005125110019072007094093036054102063060023041091064028109006096064056058059054003110100021122085031089079061002053103098027099111009029097094095002117126081074107115024074100105118091025081008&EXT=pdf
+
+
+Algorithmic Accountability:
+https://webfoundation.org/docs/2017/07/WF_Algorithms.pdf
+
+Machine intelligence makes human morals more important - Zeynep Tufekci
+https://www.ted.com/talks/zeynep_tufekci_machine_intelligence_makes_human_morals_more_important
